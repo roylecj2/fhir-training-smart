@@ -1,3 +1,5 @@
+Copy of the Module 6 SMART app Launch exercise pointed to my local FHIR server
+
 # Module 6: Implement SMART App Launch Exercises 
 This repository provides the initial **SMART Launch App** source code for the Module 6 Implement SMART App Launch workshop exercises, as part of the FHIR Fundermentals for Australian Developers course.
 
